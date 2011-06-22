@@ -1,0 +1,10 @@
+YAAC External actuators controlled via 1-wire
+
+The electrical circuit and printed circuit board by:
+  * Starcomputer (Sergei Taranchenko, http://www.aquaforum.ua/member.php?u=4695)
+  * Sem (http://www.aquaforum.ua/member.php?u=1061)
+  * Lestat (http://www.aquaforum.ua/member.php?u=7847)
+  * and may be other good people from aquaforum.ua. Big THNX! :-)
+  
+See electrical circuit in src/Circuit diagram.spl7. Open via SPlan
+See PCB in src/PCB.lay. Open via Sprint Layout
